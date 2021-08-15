@@ -1,0 +1,19 @@
+{
+  "name": "rmaster-1",
+  "version": "1.0.0",
+  "description": "Free RMA system for PC service's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flashek07/rmaster.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flashek07/rmaster/issues"
+  },
+  "homepage": "https://github.com/Flashek07/rmaster#readme"
+}
